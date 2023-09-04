@@ -1,6 +1,11 @@
 # Jakson de Oliveira Martins
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/jaksondeoliveiramartins/)](https://www.linkedin.com/in/jaksondeoliveiramartins/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/jaksonoliveira)](https://telegram.me/jaksonoliveira)
+[![GitHub](https://img.shields.io/badge/GitHub-red)](https://github.com/Jaksondeoliveiramartins)
+[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://www.dio.me/users/jaomfive)
+
+
 
 ---
 
@@ -26,14 +31,11 @@ Olá! Seja bem-vindo(a). Sou Jakson, tenho 36 anos, sou natural de Patrocínio-M
 ![Communicative](https://img.shields.io/badge/Communicative-red)
 ![Proactive](https://img.shields.io/badge/Proactive-blue)
 ![Organized](https://img.shields.io/badge/Organized-red)
-![Team-work](https://img.shields.io/badge/Team%20Work-red
-)
+![Team-work](https://img.shields.io/badge/Team%20Work-red)
 
 
-### Social Media
-[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-darkblue)](https://www.dio.me/users/jaomfive)
-[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/jaksondeoliveiramartins/)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Jaksondeoliveiramartins)
+
+
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaksondeoliveiramartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=fff)
