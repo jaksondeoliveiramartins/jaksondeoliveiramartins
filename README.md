@@ -9,7 +9,7 @@
 
 ---
 
-Olá! Seja bem-vindo(a). Sou Jakson, tenho 36 anos, sou natural de Patrocínio-MG, mas resido em Timóteo-MG. Sou casado e temos dois filhos um de 9 anos e 10 anos, cujos nomes são Ana Luiza e Samuel. Sou muito grato a Deus por ter me concedido essas pérolas na minha vida e sou um pai e esposo muito presente. Gosto de futebol, meu time do coração é o Atlético Mineiro "Galão da Massa", gosto de assistir animes, séries, filmes e navegar na internet. Sou um entusiasta de tecnologia, desde sempre fui apaixonado por computadores e decidi seguir meu sonho de ingressar na área de cloud computing. Recentemente, especializei-me em um curso em nuvem Azure Azure-900 e estou animado em aplicar meu conhecimento para resolver problemas de infraestrutura e melhorar a eficiência de processos de negócios.
+Olá! Seja bem-vindo(a). Sou Jakson, tenho 36 anos, sou natural de Patrocínio-MG, mas resido em Timóteo-MG. Sou casado e temos dois filhos um de 9 anos e 10 anos, cujos nomes são Ana Luiza e Samuel. Sou muito grato a Deus por ter concedido essas pérolas na minha vida e o dom ser  pai. Gosto de futebol, meu time do coração é o Atlético Mineiro "Galão da Massa", gosto de assistir animes, séries, filmes e navegar na internet. Sou um entusiasta de tecnologia, desde sempre fui apaixonado por computadores e decidi seguir meu sonho de ingressar na área de cloud computing. Recentemente, especializei-me em um curso em nuvem Azure Azure-900 e estou animado em aplicar meu conhecimento para resolver problemas de infraestrutura e melhorar a eficiência de processos de negócios.
 
 ----
 📚 Estudando: Fullstack+Angular, Azure, AWS
