@@ -25,7 +25,6 @@ Olá! Seja bem-vindo(a). Sou Jakson de Oliveira Martins, sou natural de Patrocí
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![Azure](https://img.shields.io/badge/-Microsof%20Azure-008AD7?style=for-the-badge&logo=windows&logoColor=white)
-(https://camo.githubusercontent.com/7da8cee220bb6285ac52a197e0318f73ba808e42510bd59ce2b883eafc9579b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6963726f736f66253230417a7572652d3030384144373f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ### Soft Skills
