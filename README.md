@@ -12,7 +12,7 @@
 Olá! Seja bem-vindo(a). Sou Jakson de Oliveira Martins, sou natural de Patrocínio-MG, mas resido em Timóteo-MG. Sou casado e temos dois filhos um de 9 anos e 10 anos, Sou muito grato a Deus por ter concedido essas pérolas na minha vida e o dom ser  pai. Gosto de futebol, meu time do coração é o Atlético Mineiro "Galão da Massa", gosto de assistir animes, séries, filmes e navegar na internet.Desde sempre fui apaixonado por computadores e decidi seguir meu sonho de ingressar na área de Tecnologia,estou em transição de carreira. Recentemente, especializei-me em um curso em nuvem  Azure-900 e estou animado em aplicar meu conhecimento para resolver problemas de infraestrutura/Cloud  e melhorar a eficiência de processos de negócios.
 
 ----
-📚 Estudando: Azure, AWS, dio.englishtech_
+📚 Estudando: Analise e Desenvolvimento de sistemas,Azure, AWS, dio.englishtech_
 - Certificações:
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: SC-900 Security, Compliance, and Identity Fundamentals
