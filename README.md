@@ -9,10 +9,10 @@
 
 ---
 
-Olá! Seja bem-vindo(a). Sou Jakson de Oliveira Martins, sou natural de Patrocínio-MG, mas resido em Timóteo-MG. Sou casado e temos dois filhos um de 9 anos e 10 anos, Sou muito grato a Deus por ter concedido essas pérolas na minha vida e o dom ser  pai. Gosto de futebol, meu time do coração é o Atlético Mineiro "Galão da Massa", gosto de assistir animes, séries, filmes e navegar na internet.Desde sempre fui apaixonado por computadores e decidi seguir meu sonho de ingressar na área de Tecnologia,estou em transição de carreira. Recentemente, especializei-me em um curso em nuvem  Azure-900 e estou animado em aplicar meu conhecimento para resolver problemas de infraestrutura/Cloud  e melhorar a eficiência de processos de negócios.
+Olá, seja bem-vindo(a). Meu nome é Jakson. Sou um desenvolvedor especialista que estuda programação desde junho de 2022, quando comecei com HTML e CSS. Tenho vasta experiência em empresas de indústria siderúrgica, atuando como expedidor de material. Desenvolvi habilidades em liderança e trabalho em equipe, além de aprimorar minha capacidade de gerenciar fluxos de materiais e prazos de entrega. Sou especialista na stack: Javascript, DevOps e Microserviços. Tenho experiência com testes automatizados, segurança web e arquitetura de Cloud, onde obtive conquistas importantes como Azure-900 e SC-900. Sou casado e temos dois filhos lindos e maravilhosos. Meu objetivo profissional é conquistar meu espaço e atuar nas áreas de Desenvolvimento, DevSecOps e DevOps, mostrando meu potencial.
 
 ----
-📚 Estudando: Analise e Desenvolvimento de sistemas,Azure, AWS, dio.englishtech_
+📚 Estudando: Analise e Desenvolvimento de sistemas, javascript, Azure, Segurança Web.
 - Certificações:
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: SC-900 Security, Compliance, and Identity Fundamentals
@@ -24,6 +24,7 @@ Olá! Seja bem-vindo(a). Sou Jakson de Oliveira Martins, sou natural de Patrocí
 ### Hard Skills
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
+![javascrip](https://img.shields.io/badge/javascript-yellow)
 ![Azure](https://img.shields.io/badge/-Microsof%20Azure-008AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
