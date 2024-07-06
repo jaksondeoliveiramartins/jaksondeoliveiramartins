@@ -22,10 +22,12 @@ Olá, seja bem-vindo(a). Meu nome é Jakson. Sou um desenvolvedor especialista q
 
 
 ### Hard Skills
-![HTML](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![javascrip](https://img.shields.io/badge/javascript-yellow)
-![Azure](https://img.shields.io/badge/-Microsof%20Azure-008AD7?style=for-the-badge&logo=windows&logoColor=white)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ ![Azure](https://img.shields.io/badge/-Microsof%20Azure-008AD7?style=for-the-badge&logo=windows&logoColor=white)
+</div>
 
 
 ### Soft Skills
