@@ -26,7 +26,7 @@ Olá, seja bem-vindo(a). Meu nome é Jakson. Sou um desenvolvedor especialista q
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![javascrip](https://img.shields.io/badge/javascript-yellow)
 ![Azure](https://img.shields.io/badge/-Microsof%20Azure-008AD7?style=for-the-badge&logo=windows&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
 
 ### Soft Skills
 ![Communicative](https://img.shields.io/badge/Communicative-red)
