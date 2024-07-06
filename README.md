@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/jaksondeoliveiramartins/)](https://www.linkedin.com/in/jaksondeoliveiramartins/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/jaksonoliveira)](https://telegram.me/jaksonoliveira)
-[<img align="center" height="20" width="40" color="red"  src="https://e7.pngegg.com/pngimages/911/648/png-clipart-github-repository-computer-icons-logo-github-blue-git-thumbnail.png"/>](https://github.com/Jaksondeoliveiramartins)
+[<img align="center" height="20" width="40" src="https://e7.pngegg.com/pngimages/911/648/png-clipart-github-repository-computer-icons-logo-github-blue-git-thumbnail.png"/>](https://github.com/Jaksondeoliveiramartins)
 
     
 
