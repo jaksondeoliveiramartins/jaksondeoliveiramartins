@@ -1,8 +1,8 @@
 # Jakson de Oliveira Martins
-
+<div>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/jaksondeoliveiramartins/)](https://www.linkedin.com/in/jaksondeoliveiramartins/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/jaksonoliveira)](https://telegram.me/jaksonoliveira)
-<div>
+
   <a href="https://github.com/Jaksondeoliveiramartins">
     <img  align="center" src="https://img.shields.io/badge/GitHub-red">
   </a>
