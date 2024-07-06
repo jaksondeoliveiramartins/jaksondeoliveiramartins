@@ -1,22 +1,14 @@
 # Jakson de Oliveira Martins
-<div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/jaksondeoliveiramartins/)](https://www.linkedin.com/in/jaksondeoliveiramartins/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/jaksonoliveira)](https://telegram.me/jaksonoliveira)
+[![Github](https://img.shields.io/badge/GitHub-red)](https://github.com/Jaksondeoliveiramartins)
 
-  <a href="https://github.com/Jaksondeoliveiramartins">
-    <img  align="center" src="https://img.shields.io/badge/GitHub-red">
-  </a>
-</div>
     
 
+---
 
   
-
-
-
-
-
----
 
 Olá, seja bem-vindo(a). Meu nome é Jakson. Sou um desenvolvedor especialista que estuda programação desde junho de 2022, quando comecei com HTML e CSS. Tenho vasta experiência em empresa de indústria siderúrgica, atuando como expedidor de material. Desenvolvi habilidades em liderança e trabalho em equipe, além de aprimorar minha capacidade de gerenciar fluxos de materiais e prazos de entrega. Sou especialista na stack: Javascript. Tenho experiência com arquitetura de Cloud, onde obtive conquistas importantes como Azure-900 e SC-900. Sou casado e temos dois filhos lindos e maravilhosos. Meu objetivo profissional é conquistar meu espaço e atuar nas áreas de Desenvolvimento, DevSecOps e DevOps, mostrando meu potencial.
 
@@ -69,3 +61,8 @@ Olá, seja bem-vindo(a). Meu nome é Jakson. Sou um desenvolvedor especialista q
   ![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
   ![Discord](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)
 ---  
+
+
+
+
+
