@@ -10,10 +10,10 @@
 
   
 
-Olá, seja bem-vindo(a). Meu nome é Jakson. Sou um desenvolvedor especialista que estuda programação desde junho de 2022, quando comecei com HTML e CSS. Tenho vasta experiência em empresa de indústria siderúrgica, atuando como expedidor de material. Desenvolvi habilidades em liderança e trabalho em equipe, além de aprimorar minha capacidade de gerenciar fluxos de materiais e prazos de entrega. Sou especialista na stack: Javascript. Tenho experiência com arquitetura de Cloud, onde obtive conquistas importantes como Azure-900 e SC-900. Sou casado e temos dois filhos lindos e maravilhosos. Meu objetivo profissional é conquistar meu espaço e atuar nas áreas de Desenvolvimento, DevSecOps e DevOps, mostrando meu potencial.
+Olá, seja bem-vindo(a). Meu nome é Jakson. Desenvolvedor com experiência em HTML, CSS, Javascript e arquitetura de Cloud, certificado em Microsoft Azure. Transição de carreira após 16 anos de experiência na indústria siderúrgica, onde desenvolvi habilidades em liderança, gestão de materiais e trabalho em equipe. Atualmente em busca de oportunidades para expandir conhecimentos em Desenvolvimento Web.
 
 ----
-📚 Estudando: Analise e Desenvolvimento de sistemas, HTML, CSS, javascript, Azure.
+📚 Estudando: Analise e Desenvolvimento de sistemas, HTML, CSS, javascript, Automatização IA + Negócios, Azure.
 - Certificações:
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: SC-900 Security, Compliance, and Identity Fundamentals
