@@ -1,4 +1,4 @@
-# Jakson de Oliveira Martins
+# 👋 Olá, eu sou Jakson de Oliveira Martins, um desenvolvedor full stack entusiasta e apaixonado   pelo que faz!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/jaksondeoliveiramartins/)](https://www.linkedin.com/in/jaksondeoliveiramartins/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://telegram.me/jaksonoliveira)](https://telegram.me/jaksonoliveira)
@@ -10,7 +10,7 @@
 
   
 
-Olá, seja bem-vindo(a). Meu nome é Jakson. Desenvolvedor com experiência em HTML, CSS, Javascript e arquitetura de Cloud, certificado em Microsoft Azure. Transição de carreira após 16 anos de experiência na indústria siderúrgica, onde desenvolvi habilidades em liderança, gestão de materiais e trabalho em equipe. Atualmente em busca de oportunidades para expandir conhecimentos em Desenvolvimento Web.
+Olá, seja bem-vindo(a). Meu nome é Jakson. Desenvolvedor com experiência em HTML, CSS, Javascript e arquitetura de Cloud, certificado em Microsoft Azure. Transição de carreira após anos de experiência na indústria siderúrgica, onde desenvolvi habilidades em liderança, gestão de materiais e trabalho em equipe. Atualmente em busca de oportunidades para expandir conhecimentos em Desenvolvimento Web.
 
 ----
 📚 Estudando: Analise e Desenvolvimento de sistemas, HTML, CSS, javascript, Automatização IA + Negócios, Azure.
