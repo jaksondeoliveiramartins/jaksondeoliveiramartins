@@ -51,7 +51,7 @@ Olá, seja bem-vindo(a). Meu nome é Jakson. Desenvolvedor com experiência em H
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaksondeoliveiramartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=fff)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaksondeoliveiramartins&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaksondeoliveiramartins&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jaksondeoliveiramartins/fsc-labs-simple-finance.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jaksondeoliveiramartins&repo=fsc-labs-simple-finance&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jaksondeoliveiramartins/fsc-labs-simple-finance.git)
 ----
  
   ## Algumas Tecnologias utilizadas:
