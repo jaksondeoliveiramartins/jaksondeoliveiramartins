@@ -10,7 +10,26 @@
 
   
 
-Olá, seja bem-vindo(a). Meu nome é Jakson. Desenvolvedor com experiência em HTML, CSS, Javascript e arquitetura de Cloud, certificado em Microsoft Azure. Transição de carreira após anos de experiência na indústria siderúrgica, onde desenvolvi habilidades em liderança, gestão de materiais e trabalho em equipe. Atualmente em busca de oportunidades para expandir conhecimentos em Desenvolvimento Web.
+
+
+Minha jornada começou com uma curiosidade genuína: formatar meu próprio computador com Windows XP. Em 2022, tive meu primeiro contato com a linguagem JavaScript durante um evento online — e foi aí que tudo fez sentido.
+
+Antes de entrar para o mundo da programação, atuei por vários anos na indústria siderúrgica, onde desenvolvi habilidades como liderança, organização e trabalho em equipe.
+
+Atualmente, estou focado em aprender e construir projetos com:
+
+JavaScript / Node.js
+
+HTML / CSS
+
+React
+
+APIs REST
+
+Banco de dados (MySQL, MongoDB)
+
+📌 Este repositório é onde compartilho meus estudos, projetos pessoais e experimentações.
+🚀 Estou sempre aberto a feedbacks, contribuições e novas conexões!
 
 ----
 📚 Estudando: Analise e Desenvolvimento de sistemas, HTML, CSS, javascript, Automatização IA + Negócios, Azure.
