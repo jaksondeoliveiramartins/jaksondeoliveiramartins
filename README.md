@@ -18,15 +18,11 @@ Antes de entrar para o mundo da programação, atuei por vários anos na indúst
 
 Atualmente, estou focado em aprender e construir projetos com:
 
-JavaScript / Node.js
-
 HTML / CSS
+JavaScript
 
-React
 
-APIs REST
 
-Banco de dados (MySQL, MongoDB)
 
 📌 Este repositório é onde compartilho meus estudos, projetos pessoais e experimentações.
 🚀 Estou sempre aberto a feedbacks, contribuições e novas conexões!
